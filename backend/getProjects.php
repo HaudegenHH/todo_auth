@@ -16,7 +16,7 @@ curl_setopt_array($curl, array(
   CURLOPT_CUSTOMREQUEST => 'GET',
   CURLOPT_HTTPHEADER => array(
     'Content-Type: application/json',
-    'X-Redmine-API-Key: 34fcaffbde7e54c0e29b0d715f2d93224e38656d'
+    'X-Redmine-API-Key: '
   ),
 ));
 
